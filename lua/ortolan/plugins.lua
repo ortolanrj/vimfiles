@@ -36,11 +36,8 @@ local plugins = {
     'nvim-lualine/lualine.nvim',
     dependencies = { 'nvim-tree/nvim-web-devicons' }
   },
-  { 'rose-pine/neovim', name = 'rose-pine' },
-  { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
-  'projekt0n/github-nvim-theme',
-  'jordwalke/vim-taste',
   'fladson/vim-kitty',
+  'sainnhe/gruvbox-material',
 }
 
 local opts = {}
